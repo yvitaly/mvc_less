@@ -1,0 +1,12 @@
+{
+    "name": "gunther/mvc-lesson",
+    "description": "MVC Lesson",
+    "type": "project",
+    "authors": [
+        {
+            "name": "yvitaly",
+            "email": "yvitalyyy@gmail.com"
+        }
+    ],
+    "require": {}
+}
